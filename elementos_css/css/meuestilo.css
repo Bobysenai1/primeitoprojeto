@@ -1,0 +1,93 @@
+/**Botões**/
+.margem1 {
+    border-radius: 0 10px 0 10px;
+}
+
+.margem2 {
+    border-radius:
+        10px 0 10px 0;
+}
+.margem3 {
+    border-radius:
+        10px 10px 10px 10px;
+}
+.botão1 {
+    border: 2px solid white;
+    background-color:#6A5ACD;
+    padding: 10px 20px 10px 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 10px 10px 10px black;
+}
+
+.botão2 {
+    border: 2px solid white;
+    background-color: #F4A460;
+    padding: 10px 20px 10px 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 10px 10px 10px black;
+}
+
+.botão3 {
+    border: 2px solid white;
+    background-color: #6B8E23;
+    padding: 10px 20px 10px 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 10px 10px 10px black;
+}
+
+.botão4 {
+    border: 2px solid white;
+    background-color: #DAA520;
+    padding: 10px 20px 10px 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 10px 10px 10px black;
+}
+
+.botão5 {
+    border: 2px solid white;
+    background-color: #FFA500;
+    padding: 10px 20px 10px 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 10px 10px 10px black;
+}
+/**Fim Botões**/
+
+/**NavBar**/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+    }
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #3CB371;
+}
+
+.Cornavbar1 {
+    background-color: #FF8C00;
+}
+.Cornavbar2 {
+    background-color:#4B0082;
+}
+.Cornavbar3 {
+    background-color:#D2691E;
+}
+/**Fim NavBar**/
